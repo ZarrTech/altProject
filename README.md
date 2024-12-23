@@ -18,4 +18,4 @@
 
 
 ## Screenshot
-![Landing Page]: screenshot/projectScreenshot.png
+![Landing Page Screenshot](screenshot/projectScreenshot.png)
